@@ -3,3 +3,4 @@
 - Mantener el repositorio ordenado
 - Escribir mensajes de commit claros
 - Revisar los cambios antes de confirmar
+- Comprobar la rama antes de hacer merge
