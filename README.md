@@ -1,9 +1,9 @@
-# Examen Git (version 2)
+# Examen Git
 
-Repositorio preparado para un examen práctico de Git.
+Objetivos del ejercicio:
 
-Contiene ejercicios de:
-- ramas
-- commits
-- fusiones
-- resolución de conflictos
+- trabajar con ramas
+- hacer commits
+- fusionar ramas
+- resolver conflictos
+- analizar historial
