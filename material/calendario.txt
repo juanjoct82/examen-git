@@ -2,3 +2,4 @@ Semana 1: Presentación
 Semana 2: Commits
 Semana 3: Ramas
 Semana 4: Fusiones
+Semana 5: Revisión final del proyecto
