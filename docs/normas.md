@@ -4,3 +4,4 @@
 - Escribir mensajes de commit claros
 - Revisar los cambios antes de confirmar
 - Comprobar la rama antes de hacer merge
+- Revisar el estado del repositorio antes de cada commit
